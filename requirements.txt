@@ -1,0 +1,8 @@
+Flask>=3.0,<4
+httpx
+google-play-scraper
+pycryptodome
+protobuf-decoder
+protobuf
+requests
+aiohttp
